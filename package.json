@@ -1,0 +1,14 @@
+{
+  "name": "logchalk",
+  "version": "1.0.1",
+  "description": "a stupid simple console.log wrapper with chalk colors",
+  "main": "logchalk.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "RPL",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
